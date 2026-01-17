@@ -1,0 +1,852 @@
+[
+  {
+    "name": "Logitech Lift Mouse",
+    "brand": "Logitech",
+    "model": "Lift Mouse",
+    "description": "",
+    "url": "https://amzn.to/3NnuM7u",
+    "category": "mouse",
+    "count": 1,
+    "workspaces": [
+      "516-artyum-grebenyuk"
+    ],
+    "oftenWith": [
+      {
+        "product": "Focusrite Scarlett 2i2",
+        "count": 1
+      },
+      {
+        "product": "Audio-Technica ATH-M50x",
+        "count": 1
+      },
+      {
+        "product": "Sihoo Doro-C300 Pro",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "name": "Focusrite Scarlett 2i2",
+    "brand": "Focusrite",
+    "model": "Scarlett 2i2",
+    "description": "",
+    "url": "https://amzn.to/4sKbk4T",
+    "category": "accessory",
+    "count": 1,
+    "workspaces": [
+      "516-artyum-grebenyuk"
+    ],
+    "oftenWith": [
+      {
+        "product": "Logitech Lift Mouse",
+        "count": 1
+      },
+      {
+        "product": "Audio-Technica ATH-M50x",
+        "count": 1
+      },
+      {
+        "product": "Sihoo Doro-C300 Pro",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "name": "Audio-Technica ATH-M50x",
+    "brand": "Audio-Technica",
+    "model": "ATH-M50x",
+    "description": "",
+    "url": "https://amzn.to/4pLMPSf",
+    "category": "accessory",
+    "count": 1,
+    "workspaces": [
+      "516-artyum-grebenyuk"
+    ],
+    "oftenWith": [
+      {
+        "product": "Logitech Lift Mouse",
+        "count": 1
+      },
+      {
+        "product": "Focusrite Scarlett 2i2",
+        "count": 1
+      },
+      {
+        "product": "Sihoo Doro-C300 Pro",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "name": "Sihoo Doro-C300 Pro",
+    "brand": "Sihoo",
+    "model": "Doro-C300 Pro",
+    "description": "",
+    "url": "https://amzn.to/3NOFCDu",
+    "category": "accessory",
+    "count": 1,
+    "workspaces": [
+      "516-artyum-grebenyuk"
+    ],
+    "oftenWith": [
+      {
+        "product": "Logitech Lift Mouse",
+        "count": 1
+      },
+      {
+        "product": "Focusrite Scarlett 2i2",
+        "count": 1
+      },
+      {
+        "product": "Audio-Technica ATH-M50x",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "name": "Oakywood Standing Desk Pro",
+    "brand": "Oakywood",
+    "model": "Standing Desk Pro",
+    "description": "Solid wood sit/stand desk with a minimal, modern look",
+    "url": "https://www.awin1.com/cread.php?awinmid=92799&awinaffid=2671016&ued=https%3A%2F%2Foakywood.shop%2Fproducts%2Fstanding-desk-pro",
+    "category": "desk",
+    "count": 1,
+    "workspaces": [
+      "515-jorge-powell"
+    ],
+    "oftenWith": [
+      {
+        "product": "Oakywood Under-Desk Cable Management Tray",
+        "count": 1
+      },
+      {
+        "product": "Oakywood Desk Shelf",
+        "count": 1
+      },
+      {
+        "product": "Oakywood Large Modular Drawers",
+        "count": 1
+      },
+      {
+        "product": "Oakywood Desk-Mounted Hook",
+        "count": 1
+      },
+      {
+        "product": "Oakywood Hanging Desk Organizer",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "name": "Oakywood Under-Desk Cable Management Tray",
+    "brand": "Oakywood",
+    "model": "Under-Desk Cable Management Tray",
+    "description": "Keeps cables out of sight",
+    "url": "https://www.awin1.com/cread.php?awinmid=92799&awinaffid=2671016&ued=https%3A%2F%2Foakywood.shop%2Fproducts%2Funderdesk-organizer-tray",
+    "category": "desk",
+    "count": 1,
+    "workspaces": [
+      "515-jorge-powell"
+    ],
+    "oftenWith": [
+      {
+        "product": "Oakywood Standing Desk Pro",
+        "count": 1
+      },
+      {
+        "product": "Oakywood Desk Shelf",
+        "count": 1
+      },
+      {
+        "product": "Oakywood Large Modular Drawers",
+        "count": 1
+      },
+      {
+        "product": "Oakywood Desk-Mounted Hook",
+        "count": 1
+      },
+      {
+        "product": "Oakywood Hanging Desk Organizer",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "name": "Oakywood Desk Shelf",
+    "brand": "Oakywood",
+    "model": "Desk Shelf",
+    "description": "Raises the display and creates extra surface storage",
+    "url": "https://www.awin1.com/cread.php?awinmid=92799&awinaffid=2671016&ued=https%3A%2F%2Foakywood.shop%2Fproducts%2Fdesk-shelf-dual-monitor-stand",
+    "category": "monitor",
+    "count": 1,
+    "workspaces": [
+      "515-jorge-powell"
+    ],
+    "oftenWith": [
+      {
+        "product": "Oakywood Standing Desk Pro",
+        "count": 1
+      },
+      {
+        "product": "Oakywood Under-Desk Cable Management Tray",
+        "count": 1
+      },
+      {
+        "product": "Oakywood Large Modular Drawers",
+        "count": 1
+      },
+      {
+        "product": "Oakywood Desk-Mounted Hook",
+        "count": 1
+      },
+      {
+        "product": "Oakywood Hanging Desk Organizer",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "name": "Oakywood Large Modular Drawers",
+    "brand": "Oakywood",
+    "model": "Large Modular Drawers",
+    "description": "Modular desk storage for everyday essentials",
+    "url": "https://www.awin1.com/cread.php?awinmid=92799&awinaffid=2671016&ued=https%3A%2F%2Foakywood.shop%2Fproducts%2Flarge-modular-drawer",
+    "category": "desk",
+    "count": 1,
+    "workspaces": [
+      "515-jorge-powell"
+    ],
+    "oftenWith": [
+      {
+        "product": "Oakywood Standing Desk Pro",
+        "count": 1
+      },
+      {
+        "product": "Oakywood Under-Desk Cable Management Tray",
+        "count": 1
+      },
+      {
+        "product": "Oakywood Desk Shelf",
+        "count": 1
+      },
+      {
+        "product": "Oakywood Desk-Mounted Hook",
+        "count": 1
+      },
+      {
+        "product": "Oakywood Hanging Desk Organizer",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "name": "Oakywood Desk-Mounted Hook",
+    "brand": "Oakywood",
+    "model": "Desk-Mounted Hook",
+    "description": "Headphone and bag storage without clutter",
+    "url": "https://www.awin1.com/cread.php?awinmid=92799&awinaffid=2671016&ued=https%3A%2F%2Foakywood.shop%2Fproducts%2Fdesk-mounted-headphone-hook",
+    "category": "desk",
+    "count": 1,
+    "workspaces": [
+      "515-jorge-powell"
+    ],
+    "oftenWith": [
+      {
+        "product": "Oakywood Standing Desk Pro",
+        "count": 1
+      },
+      {
+        "product": "Oakywood Under-Desk Cable Management Tray",
+        "count": 1
+      },
+      {
+        "product": "Oakywood Desk Shelf",
+        "count": 1
+      },
+      {
+        "product": "Oakywood Large Modular Drawers",
+        "count": 1
+      },
+      {
+        "product": "Oakywood Hanging Desk Organizer",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "name": "Oakywood Hanging Desk Organizer",
+    "brand": "Oakywood",
+    "model": "Hanging Desk Organizer",
+    "description": "Vertical storage for notebooks and tools",
+    "url": "https://www.awin1.com/cread.php?awinmid=92799&awinaffid=2671016&ued=https%3A%2F%2Foakywood.shop%2Fproducts%2Fhanging-desk-organizer",
+    "category": "organization",
+    "count": 1,
+    "workspaces": [
+      "515-jorge-powell"
+    ],
+    "oftenWith": [
+      {
+        "product": "Oakywood Standing Desk Pro",
+        "count": 1
+      },
+      {
+        "product": "Oakywood Under-Desk Cable Management Tray",
+        "count": 1
+      },
+      {
+        "product": "Oakywood Desk Shelf",
+        "count": 1
+      },
+      {
+        "product": "Oakywood Large Modular Drawers",
+        "count": 1
+      },
+      {
+        "product": "Oakywood Desk-Mounted Hook",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "name": "Oakywood Magnetic Cable Organizer",
+    "brand": "Oakywood",
+    "model": "Magnetic Cable Organizer",
+    "description": "Magnetic cable routing for quick access",
+    "url": "https://www.awin1.com/cread.php?awinmid=92799&awinaffid=2671016&ued=https%3A%2F%2Foakywood.shop%2Fproducts%2Fmagnetic-cable-organizer",
+    "category": "organization",
+    "count": 1,
+    "workspaces": [
+      "515-jorge-powell"
+    ],
+    "oftenWith": [
+      {
+        "product": "Oakywood Standing Desk Pro",
+        "count": 1
+      },
+      {
+        "product": "Oakywood Under-Desk Cable Management Tray",
+        "count": 1
+      },
+      {
+        "product": "Oakywood Desk Shelf",
+        "count": 1
+      },
+      {
+        "product": "Oakywood Large Modular Drawers",
+        "count": 1
+      },
+      {
+        "product": "Oakywood Desk-Mounted Hook",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "name": "Oakywood Laptop Stand",
+    "brand": "Oakywood",
+    "model": "Laptop Stand",
+    "description": "Ergonomic laptop elevation with matching materials",
+    "url": "https://www.awin1.com/cread.php?awinmid=92799&awinaffid=2671016&ued=https%3A%2F%2Foakywood.shop%2Fproducts%2Fsolid-wood-laptop-stand",
+    "category": "laptop-stand",
+    "count": 1,
+    "workspaces": [
+      "515-jorge-powell"
+    ],
+    "oftenWith": [
+      {
+        "product": "Oakywood Standing Desk Pro",
+        "count": 1
+      },
+      {
+        "product": "Oakywood Under-Desk Cable Management Tray",
+        "count": 1
+      },
+      {
+        "product": "Oakywood Desk Shelf",
+        "count": 1
+      },
+      {
+        "product": "Oakywood Large Modular Drawers",
+        "count": 1
+      },
+      {
+        "product": "Oakywood Desk-Mounted Hook",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "name": "Oakywood MagSafe Charging Stand",
+    "brand": "Oakywood",
+    "model": "MagSafe Charging Stand",
+    "description": "Ergonomic iPhone charging dock",
+    "url": "https://www.awin1.com/cread.php?awinmid=92799&awinaffid=2671016&ued=https%3A%2F%2Foakywood.shop%2Fproducts%2Fmagsafe-iphone-stand",
+    "category": "phone-stand",
+    "count": 1,
+    "workspaces": [
+      "515-jorge-powell"
+    ],
+    "oftenWith": [
+      {
+        "product": "Oakywood Standing Desk Pro",
+        "count": 1
+      },
+      {
+        "product": "Oakywood Under-Desk Cable Management Tray",
+        "count": 1
+      },
+      {
+        "product": "Oakywood Desk Shelf",
+        "count": 1
+      },
+      {
+        "product": "Oakywood Large Modular Drawers",
+        "count": 1
+      },
+      {
+        "product": "Oakywood Desk-Mounted Hook",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "name": "Orbitkey Desk Mat Slim",
+    "brand": "Orbitkey",
+    "model": "Desk Mat Slim",
+    "description": "Leather desk mat for writing and mouse control",
+    "url": "https://amzn.to/4sAt6Y6",
+    "category": "mouse",
+    "count": 1,
+    "workspaces": [
+      "515-jorge-powell"
+    ],
+    "oftenWith": [
+      {
+        "product": "Oakywood Standing Desk Pro",
+        "count": 1
+      },
+      {
+        "product": "Oakywood Under-Desk Cable Management Tray",
+        "count": 1
+      },
+      {
+        "product": "Oakywood Desk Shelf",
+        "count": 1
+      },
+      {
+        "product": "Oakywood Large Modular Drawers",
+        "count": 1
+      },
+      {
+        "product": "Oakywood Desk-Mounted Hook",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "name": "Apple Studio Display",
+    "brand": "Apple",
+    "model": "Studio Display",
+    "description": "27″ 5K display for design and video work",
+    "url": "https://amzn.to/4jwDIDj",
+    "category": "monitor",
+    "count": 1,
+    "workspaces": [
+      "515-jorge-powell"
+    ],
+    "oftenWith": [
+      {
+        "product": "Oakywood Standing Desk Pro",
+        "count": 1
+      },
+      {
+        "product": "Oakywood Under-Desk Cable Management Tray",
+        "count": 1
+      },
+      {
+        "product": "Oakywood Desk Shelf",
+        "count": 1
+      },
+      {
+        "product": "Oakywood Large Modular Drawers",
+        "count": 1
+      },
+      {
+        "product": "Oakywood Desk-Mounted Hook",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "name": "Herman Miller Aeron Chair (Mineral)",
+    "brand": "Herman Miller",
+    "model": "Aeron Chair (Mineral)",
+    "description": "Ergonomic task chair built for all-day comfort",
+    "url": "https://store.hermanmiller.com/office-chairs-aeron",
+    "category": "chair",
+    "count": 1,
+    "workspaces": [
+      "515-jorge-powell"
+    ],
+    "oftenWith": [
+      {
+        "product": "Oakywood Standing Desk Pro",
+        "count": 1
+      },
+      {
+        "product": "Oakywood Under-Desk Cable Management Tray",
+        "count": 1
+      },
+      {
+        "product": "Oakywood Desk Shelf",
+        "count": 1
+      },
+      {
+        "product": "Oakywood Large Modular Drawers",
+        "count": 1
+      },
+      {
+        "product": "Oakywood Desk-Mounted Hook",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "name": "Kanto YU Speakers",
+    "brand": "Kanto",
+    "model": "YU Speakers",
+    "description": "Compact desktop speakers with clean sound",
+    "url": "https://amzn.to/4qnAwNe",
+    "category": "desk",
+    "count": 1,
+    "workspaces": [
+      "515-jorge-powell"
+    ],
+    "oftenWith": [
+      {
+        "product": "Oakywood Standing Desk Pro",
+        "count": 1
+      },
+      {
+        "product": "Oakywood Under-Desk Cable Management Tray",
+        "count": 1
+      },
+      {
+        "product": "Oakywood Desk Shelf",
+        "count": 1
+      },
+      {
+        "product": "Oakywood Large Modular Drawers",
+        "count": 1
+      },
+      {
+        "product": "Oakywood Desk-Mounted Hook",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "name": "Kanto 6″ Speaker Stands",
+    "brand": "Kanto",
+    "model": "6″ Speaker Stands",
+    "description": "Proper speaker positioning and desk clearance",
+    "url": "https://amzn.to/49eEAsT",
+    "category": "speaker-stand",
+    "count": 1,
+    "workspaces": [
+      "515-jorge-powell"
+    ],
+    "oftenWith": [
+      {
+        "product": "Oakywood Standing Desk Pro",
+        "count": 1
+      },
+      {
+        "product": "Oakywood Under-Desk Cable Management Tray",
+        "count": 1
+      },
+      {
+        "product": "Oakywood Desk Shelf",
+        "count": 1
+      },
+      {
+        "product": "Oakywood Large Modular Drawers",
+        "count": 1
+      },
+      {
+        "product": "Oakywood Desk-Mounted Hook",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "name": "CalDigit TS4 Thunderbolt 4 Dock",
+    "brand": "CalDigit",
+    "model": "TS4 Thunderbolt 4 Dock",
+    "description": "Single-cable power and connectivity hub",
+    "url": "https://amzn.to/4qK4Zod",
+    "category": "dock",
+    "count": 1,
+    "workspaces": [
+      "515-jorge-powell"
+    ],
+    "oftenWith": [
+      {
+        "product": "Oakywood Standing Desk Pro",
+        "count": 1
+      },
+      {
+        "product": "Oakywood Under-Desk Cable Management Tray",
+        "count": 1
+      },
+      {
+        "product": "Oakywood Desk Shelf",
+        "count": 1
+      },
+      {
+        "product": "Oakywood Large Modular Drawers",
+        "count": 1
+      },
+      {
+        "product": "Oakywood Desk-Mounted Hook",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "name": "RØDE NT-USB+ Microphone",
+    "brand": "RØDE",
+    "model": "NT-USB+ Microphone",
+    "description": "Plug-and-play USB mic for calls and recording",
+    "url": "https://amzn.to/45ydmes",
+    "category": "microphone",
+    "count": 1,
+    "workspaces": [
+      "515-jorge-powell"
+    ],
+    "oftenWith": [
+      {
+        "product": "Oakywood Standing Desk Pro",
+        "count": 1
+      },
+      {
+        "product": "Oakywood Under-Desk Cable Management Tray",
+        "count": 1
+      },
+      {
+        "product": "Oakywood Desk Shelf",
+        "count": 1
+      },
+      {
+        "product": "Oakywood Large Modular Drawers",
+        "count": 1
+      },
+      {
+        "product": "Oakywood Desk-Mounted Hook",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "name": "Elgato Wave Mic Arm Pro",
+    "brand": "LG",
+    "model": "ato Wave Mic Arm Pro",
+    "description": "Low-profile microphone arm with smooth motion",
+    "url": "https://amzn.to/4aMKH90",
+    "category": "microphone",
+    "count": 1,
+    "workspaces": [
+      "515-jorge-powell"
+    ],
+    "oftenWith": [
+      {
+        "product": "Oakywood Standing Desk Pro",
+        "count": 1
+      },
+      {
+        "product": "Oakywood Under-Desk Cable Management Tray",
+        "count": 1
+      },
+      {
+        "product": "Oakywood Desk Shelf",
+        "count": 1
+      },
+      {
+        "product": "Oakywood Large Modular Drawers",
+        "count": 1
+      },
+      {
+        "product": "Oakywood Desk-Mounted Hook",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "name": "RØDECaster Video",
+    "brand": "RØDE",
+    "model": "Caster Video",
+    "description": "Compact video and audio production switcher",
+    "url": "https://amzn.to/4qdMb0G",
+    "category": "accessory",
+    "count": 1,
+    "workspaces": [
+      "515-jorge-powell"
+    ],
+    "oftenWith": [
+      {
+        "product": "Oakywood Standing Desk Pro",
+        "count": 1
+      },
+      {
+        "product": "Oakywood Under-Desk Cable Management Tray",
+        "count": 1
+      },
+      {
+        "product": "Oakywood Desk Shelf",
+        "count": 1
+      },
+      {
+        "product": "Oakywood Large Modular Drawers",
+        "count": 1
+      },
+      {
+        "product": "Oakywood Desk-Mounted Hook",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "name": "amaran Verge Max Light",
+    "brand": "amaran",
+    "model": "Verge Max Light",
+    "description": "Soft key light for video calls and filming",
+    "url": "https://amzn.to/4pIPV9K",
+    "category": "lighting",
+    "count": 1,
+    "workspaces": [
+      "515-jorge-powell"
+    ],
+    "oftenWith": [
+      {
+        "product": "Oakywood Standing Desk Pro",
+        "count": 1
+      },
+      {
+        "product": "Oakywood Under-Desk Cable Management Tray",
+        "count": 1
+      },
+      {
+        "product": "Oakywood Desk Shelf",
+        "count": 1
+      },
+      {
+        "product": "Oakywood Large Modular Drawers",
+        "count": 1
+      },
+      {
+        "product": "Oakywood Desk-Mounted Hook",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "name": "Logitech MX Master 3S for Mac",
+    "brand": "Logitech",
+    "model": "MX Master 3S for Mac",
+    "description": "Ergonomic mouse",
+    "url": "https://amzn.to/3LCHXRm",
+    "category": "mouse",
+    "count": 1,
+    "workspaces": [
+      "515-jorge-powell"
+    ],
+    "oftenWith": [
+      {
+        "product": "Oakywood Standing Desk Pro",
+        "count": 1
+      },
+      {
+        "product": "Oakywood Under-Desk Cable Management Tray",
+        "count": 1
+      },
+      {
+        "product": "Oakywood Desk Shelf",
+        "count": 1
+      },
+      {
+        "product": "Oakywood Large Modular Drawers",
+        "count": 1
+      },
+      {
+        "product": "Oakywood Desk-Mounted Hook",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "name": "Samsung Viewfinity S9",
+    "brand": "Samsung",
+    "model": "Viewfinity S9",
+    "description": "Monitor -",
+    "url": "https://amzn.to/4j4jrES",
+    "category": "monitor",
+    "count": 1,
+    "workspaces": [
+      "514-helin-kil"
+    ],
+    "oftenWith": [
+      {
+        "product": "Logitech Lift",
+        "count": 1
+      },
+      {
+        "product": "Lofree Flow84 Low",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "name": "Logitech Lift",
+    "brand": "Logitech",
+    "model": "Lift",
+    "description": "Mouse -",
+    "url": "https://amzn.to/3Y2GhmX",
+    "category": "mouse",
+    "count": 1,
+    "workspaces": [
+      "514-helin-kil"
+    ],
+    "oftenWith": [
+      {
+        "product": "Samsung Viewfinity S9",
+        "count": 1
+      },
+      {
+        "product": "Lofree Flow84 Low",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "name": "Lofree Flow84 Low",
+    "brand": "Lofree",
+    "model": "Flow84 Low",
+    "description": "Keyboard -",
+    "url": "https://amzn.to/3Ldngv0",
+    "category": "keyboard",
+    "count": 1,
+    "workspaces": [
+      "514-helin-kil"
+    ],
+    "oftenWith": [
+      {
+        "product": "Samsung Viewfinity S9",
+        "count": 1
+      },
+      {
+        "product": "Logitech Lift",
+        "count": 1
+      }
+    ]
+  }
+]
